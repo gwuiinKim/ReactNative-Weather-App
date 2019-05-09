@@ -1,8 +1,15 @@
 복습용
 
 ##React Native
+https://facebook.github.io/react-native/
+
 리액트 네이티브는 리액트와 달리 html, css 파일을 생성하지 않고,
 jsx로 코딩을 하게 되면 objective-c, java로 변환된다.
+
+즉, html과는 다른 component들이 있으며,
+그 Component만을 사용해야 한다.
+
+react에 비해서 Strict한 규칙을 가지고 있으며, 그렇기 때문에 두 플랫폼에서 작동할 수 있다.
 
 그리고 flex 로 Styling 을 할 수 있다는 것은 큰 장점이다.
 
